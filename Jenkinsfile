@@ -20,6 +20,7 @@ pipeline {
         }
         failure {
             echo 'Build FAILED faileddd"
+            echo "s"
         }
     }
 }
